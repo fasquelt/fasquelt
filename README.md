@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tfsql
+- 👋 Hi, I’m Tom Fasquelle
 - 🌱 I’m currently learning programming and computer science
 
 <!---
