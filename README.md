@@ -4,6 +4,7 @@
 - ⌨️ I am skilled in web development ( HTML, CSS, JavaScript, PHP, Symfony ), and I'm learning mobile development ( Kotlin )
 - 🔍 I'm looking for an alternating year in development, for the 2024-2025 year.
 - 🤝 Feel free to get in touch with me !
+
 🇫🇷
 - Bonjour, je m'appelle Tom Fasquelle
 - 💻 Je suis étudiant en BUT Informatique
